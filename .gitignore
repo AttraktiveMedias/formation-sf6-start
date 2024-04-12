@@ -50,3 +50,31 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+###> symfony/framework-bundle ###
+/web/.env.local
+/web/.env.local.php
+/web/.env.*.local
+/web/config/secrets/prod/prod.decrypt.private.php
+/web/public/bundles/
+/web/var/
+/web/vendor/
+###< symfony/framework-bundle ###
+
+###> phpunit/phpunit ###
+/web/phpunit.xml
+/web/.phpunit.result.cache
+###< phpunit/phpunit ###
+
+###> symfony/phpunit-bridge ###
+/web/.phpunit.result.cache
+/web/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> symfony/asset-mapper ###
+/web/public/assets/
+/web/assets/vendor/
+###< symfony/asset-mapper ###
+
+# PHPStorm IDE
+.idea/
