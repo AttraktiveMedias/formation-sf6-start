@@ -6,7 +6,7 @@ Socle technique pour la formation "Démarrer avec Symfony 6" de Sensio labs
 Programme de la formation : https://training.sensiolabs.com/fr/courses/SF6START3J-demarrer-avec-symfony6
 
 ## Socle technique
-* PHP 8.1
+* PHP 8.2
 * Symfony 6.4
 * MariaDB 10.4
 * DDEV (Docker-based PHP development environments : https://ddev.com/)
